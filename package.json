@@ -1,0 +1,19 @@
+{
+  "name": "nodedbtest",
+  "version": "1.0.0",
+  "description": "testing local db",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlatarTheBlueWizard/nodeDBTest.git"
+  },
+  "author": "Ryan Gale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlatarTheBlueWizard/nodeDBTest/issues"
+  },
+  "homepage": "https://github.com/AlatarTheBlueWizard/nodeDBTest#readme"
+}
