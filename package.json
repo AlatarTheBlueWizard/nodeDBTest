@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AlatarTheBlueWizard/nodeDBTest/issues"
   },
-  "homepage": "https://github.com/AlatarTheBlueWizard/nodeDBTest#readme"
+  "homepage": "https://github.com/AlatarTheBlueWizard/nodeDBTest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.11.0"
+  }
 }
